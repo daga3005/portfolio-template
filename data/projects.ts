@@ -8,6 +8,7 @@ export const projectsData = {
       title: "Digital Ecosystem Platform",
   description:
     "Digital platform with authentication, resource management, and dynamic educational content, built with React, TypeScript and Tailwind CSS.",
+    gallery: [],
     image: "https://i.postimg.cc/cHjDJTyn/Captura-de-pantalla-2026-06-12-112745.png", // O usa una captura de pantalla de tu sitiogallery: [],
       category: "Frontend Application",
       details:
