@@ -15,6 +15,7 @@
     "@heroui/theme": "2.4.17",
     "@heroui/use-theme": "2.1.6",
     "@iconify/react": "latest",
+    "@react-aria/interactions": "^3.28.1",
     "@react-aria/ssr": "3.9.9",
     "@react-aria/visually-hidden": "3.8.24",
     "@shadergradient/react": "^2.0.25",
