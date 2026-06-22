@@ -1,4 +1,7 @@
-export const homeData = {
+// data/homeData.ts
+import type { HomeData } from "@/lib/types";
+
+export const homeData: HomeData = {
   hero: {
     name: "Daniel García",
     title: "Full-Stack Web Developer",
@@ -14,7 +17,7 @@ export const homeData = {
         name: "Frontend Development",
         level: 90,
         icon: "lucide:code",
-        color: "primary",
+        color: "primary", // ✅ Ahora es del tipo correcto
       },
       {
         name: "Backend Development",
